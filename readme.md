@@ -4,7 +4,7 @@
 **Date:** 02 October 2024  
 **Exploit Author:** Khunerable  
 **Tested On:** Windows 11, Windows NT 10.0  
-**Vendor Homepage:** [https://github.com/itskodinger/midia](https://github.com/itskodinger/midia/tree/master)
+**Vendor Homepage:** [https://github.com/itskodinger/midia](https://github.com/itskodinger/midia/tree/master)  
 **Link Description:** [https://cxsecurity.com/issue/WLB-2024100003](https://cxsecurity.com/issue/WLB-2024100003)
 ---
 
